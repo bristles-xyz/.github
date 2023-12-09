@@ -1,3 +1,4 @@
+![alt text](https://github.com/bristles-xyz/bristles/blob/main/public/logo/android-chrome-192x192.png?raw=true)
 # Bristles
 
 This project is an open-source online collaborative drawing app built using React, TypeScript, and Canvas. The goal is to provide users with a platform where they can draw together in real-time over encrypted communication.
